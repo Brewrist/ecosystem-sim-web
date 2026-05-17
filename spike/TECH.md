@@ -1,0 +1,5 @@
+- Stack: HTML5 Canvas + vanilla JS. No frameworks.
+- Reason: zero install for visitors, course-aligned, forces me to write the render loop.
+- Risk: I've never written real JS. Spike will de-risk this.
+- Spike goal: animate one rectangle moving across the screen.
+- Spike budget: 2 hours. If I can't, switch to SDL2.
